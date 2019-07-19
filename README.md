@@ -3,7 +3,7 @@ This project is a treat for all the Harry Potter fans out there. It recreates th
 
 ## Installation
 #### Clone
-Clone this repo to your local machine using `https://github.com/bkrit/invisibility-cloak.git`
+Clone this repo to your local machine using `git clone https://github.com/bkrit/invisibility-cloak.git`
 
 #### Setup/Requirements
 This code is written in Python. It uses the following libraries:
